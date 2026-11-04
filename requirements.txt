@@ -1,7 +1,8 @@
-streamlit
+streamlit==1.66.1
 streamlit-webrtc
 av
-tensorflow
-numpy
-opencv-python-headless
+tensorflow==2.15.1
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+protobuf==4.25.9
 Pillow
